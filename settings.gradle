@@ -3,4 +3,5 @@ rootProject.name = 'spring-microservice'
 
 include 'modul-server-spring'
 include 'modul-client-spring'
+include 'module-API-Gateway'
 
